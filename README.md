@@ -57,8 +57,5 @@ frameworks, one dependency (the SSH server).
 
 ---
 
-The Loopback is not on any map. 127.0.0.1 is wherever you are.
-
 One-shotted by [Claude Fable 5](https://www.anthropic.com/claude) from the
-prompt *"surprise me harder"* — concept, room, and regulars in a single pass,
-verified over two live ssh sessions before the first commit.
+prompt *"surprise me "* — concept, room, and regulars in a single pass.
