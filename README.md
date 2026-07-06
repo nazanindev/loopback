@@ -6,6 +6,8 @@
 ssh -p 2222 you@localhost
 ```
 
+![a night at the counter — rain on the glass, the regulars in, the bartender remembering](shots/night-at-the-bar.png)
+
 ## What this is
 
 A bar that exists only as a Go process. Anyone who can reach it over SSH walks
@@ -57,4 +59,6 @@ frameworks, one dependency (the SSH server).
 
 The Loopback is not on any map. 127.0.0.1 is wherever you are.
 
-*A [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) one shot.*
+One-shotted by [Claude Fable 5](https://www.anthropic.com/claude) from the
+prompt *"surprise me harder"* — concept, room, and regulars in a single pass,
+verified over two live ssh sessions before the first commit.
